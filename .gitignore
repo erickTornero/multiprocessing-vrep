@@ -1,2 +1,3 @@
 multiprocess_vrep.egg-info/*
 *__pycache__*
+*.vscode*
